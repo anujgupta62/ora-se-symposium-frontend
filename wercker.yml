@@ -33,8 +33,8 @@ docker-build:
 
     - internal/docker-push: 
         image-name: $APP_NAME
-        username: $CONTAINER_REGISTRY_USERNAME
-        password: $API_USER_TOKEN
+        username: 211941
+        password: dd5b3b37-33d0-453b-9617-97c609464651
         repository: $TENANCY_NAME/$REPO_NAME/$APP_NAME
         registry: $PRIVATE_REGISTRY_PATH 
         tag: ${WERCKER_GIT_BRANCH}-${WERCKER_GIT_COMMIT},latest
