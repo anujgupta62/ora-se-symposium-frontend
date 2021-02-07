@@ -1,4 +1,4 @@
-# SE Symposium Front End 
+# SE Symposium Front End [![wercker status](https://app.wercker.com/status/3e99b647f5968b9aacdd975baf350cb4/s/master "wercker status")](https://app.wercker.com/project/byKey/3e99b647f5968b9aacdd975baf350cb4)
 A simple Stateless , Highly scalable React Application Built for a symposium at Oracle
 
 ```If you have missed the first 4 steps , please go to this link```
